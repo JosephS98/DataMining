@@ -21,7 +21,7 @@ Key Topics:
 
 ## Assignment 2: Feature Engineering
 
-[[Link to Colab Notebook - Assignment 2](link_to_assignment_2.ipynb)](https://colab.research.google.com/drive/1DTXMr6ZEbui4jeqiMFqx8u0d57LqKLFz?usp=sharing)
+[[Link to Colab Notebook - Assignment 2](https://colab.research.google.com/drive/1DTXMr6ZEbui4jeqiMFqx8u0d57LqKLFz?usp=sharing)]
 
 Assignment 2 focuses on feature engineering, a crucial step in preparing data for machine learning models. Learn how to transform raw data into informative features that enhance the performance of your models.
 
@@ -32,7 +32,7 @@ Key Topics:
 
 ## Assignment 3: Clustering and Classification
 
-[[Link to Colab Notebook - Assignment 3](link_to_assignment_3.ipynb)](https://colab.research.google.com/drive/1X0FNyuxWu8H1VP5x9qHlJoFoFfTvvgtO?usp=sharing)
+[[Link to Colab Notebook - Assignment 3](https://colab.research.google.com/drive/1X0FNyuxWu8H1VP5x9qHlJoFoFfTvvgtO?usp=sharing)]
 
 In this assignment, we dive into clustering and classification techniques. Explore methods for grouping similar data points and building predictive models.
 
