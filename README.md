@@ -34,6 +34,11 @@ Key Topics:
 
 [[Link to Colab Notebook - Assignment 3](https://colab.research.google.com/drive/1X0FNyuxWu8H1VP5x9qHlJoFoFfTvvgtO?usp=sharing)]
 
+## Assignment 4
+
+- Moderate Demented
+[[Link to Colab Notebook - Assignment 3](https://colab.research.google.com/drive/1DTXMr6ZEbui4jeqiMFqx8u0d57LqKLFz?usp=sharing)]
+
 **Title:** Alzheimer's Dataset (4 class of Images)
 - Mild Demented
 - Moderate Demented
@@ -51,16 +56,6 @@ Key Topics:
 ### Data Preprocessing
 
 1. **Apply image preprocessing techniques:** Resize, normalize, and augment the images to prepare the dataset for modeling.
-
-### Model Selection and Training
-
-Implement three different models for the classification task:
-
-1. **Transfer Learning Model:** Utilize a pre-trained model and fine-tune it for the Alzheimer's MRI image dataset. [Link to Colab Notebook - Transfer Learning Model](link_to_transfer_learning_model.ipynb)
-
-2. **Custom Deep Neural Network (DNN):** Construct and train a DNN from scratch, tailored specifically for this dataset. [Link to Colab Notebook - Custom DNN Model](link_to_custom_dnn_model.ipynb)
-
-3. **Student-Designed Model:** Design and train an original model, justifying the architecture and parameter choices. [Link to Colab Notebook - Student-Designed Model](link_to_student_designed_model.ipynb)
 
 ### Model Evaluation
 
