@@ -5,8 +5,8 @@ Welcome to the repository for my Data Mining assignments. In this collection, yo
 
 1. [Assignment 1: Exploratory Data Analysis]
 2. [Assignment 2: Feature Engineering]
-3. [Assignment 3: Clustering and Classification]
-4. 
+3. [Assignment 3: Predictive Analysis in Cardiovascular Medicine]
+4. [Assignment 4: Analysis of Alzheimer's MRI Dataset]
 
 ## Assignment 1: Exploratory Data Analysis
 
@@ -30,15 +30,47 @@ Key Topics:
 - Feature Scaling
 - Feature Selection
 
-## Assignment 3: Clustering and Classification
+## Assignment 3
 
 [[Link to Colab Notebook - Assignment 3](https://colab.research.google.com/drive/1X0FNyuxWu8H1VP5x9qHlJoFoFfTvvgtO?usp=sharing)]
 
-In this assignment, we dive into clustering and classification techniques. Explore methods for grouping similar data points and building predictive models.
+**Title:** Alzheimer's Dataset (4 class of Images)
+- Mild Demented
+- Moderate Demented
+- Non Demented
+- Very Mild Demented
 
-Key Topics:
-- K-Means Clustering
-- Hierarchical Clustering
-- Classification Algorithms
+## Requirements
 
+### Exploratory Data Analysis (EDA)
+
+1. **Download the dataset:** Access the dataset from the [files section labeled "Alzheimer_s Dataset"](dataset_link).
+
+2. **Visualize different classes of images:** Perform Exploratory Data Analysis to identify distinguishing features among the different classes of MRI images.
+
+### Data Preprocessing
+
+1. **Apply image preprocessing techniques:** Resize, normalize, and augment the images to prepare the dataset for modeling.
+
+### Model Selection and Training
+
+Implement three different models for the classification task:
+
+1. **Transfer Learning Model:** Utilize a pre-trained model and fine-tune it for the Alzheimer's MRI image dataset. [Link to Colab Notebook - Transfer Learning Model](link_to_transfer_learning_model.ipynb)
+
+2. **Custom Deep Neural Network (DNN):** Construct and train a DNN from scratch, tailored specifically for this dataset. [Link to Colab Notebook - Custom DNN Model](link_to_custom_dnn_model.ipynb)
+
+3. **Student-Designed Model:** Design and train an original model, justifying the architecture and parameter choices. [Link to Colab Notebook - Student-Designed Model](link_to_student_designed_model.ipynb)
+
+### Model Evaluation
+
+1. **Compare the performance of the three models:** Evaluate based on accuracy, precision, recall, and F1-score.
+
+2. **Analyze strengths and weaknesses:** Assess training time, performance, and generalizability of each model.
+
+### Discussion and Conclusion
+
+1. **Discuss the results:** Provide insights into the behavior of the different models with this particular dataset.
+
+2. **Conclude with recommendations:** Offer recommendations on the most effective model for predicting the stages of Alzheimer’s disease based on the analysis.
 ## License
